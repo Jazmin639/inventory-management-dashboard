@@ -3,7 +3,7 @@
 ## 📊 Dashboard Overview
 This interactive Power BI dashboard was developed to monitor and optimize stock levels across the supply chain. The panel provides comprehensive control over product flows, allowing users to identify reconciliation variances and maintain optimal storage baselines.
 
-<img src="image_8d4334.png" alt="Inventory Dashboard Overview" width="100%">
+<img width="1325" height="745" alt="Dashboard_Inventory" src="https://github.com/user-attachments/assets/5d5469eb-32c9-4dee-9ea5-ef421ed4c461" />
 
 
 ## 🎯 KPIs & Control Metrics Analyzed
